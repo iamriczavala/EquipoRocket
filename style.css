@@ -7,13 +7,22 @@
     -moz-osx-font-smoothing: grayscale;
     font-family: 'Dosis', sans-serif;
     line-height: 1.6;
-    color: #666;
-    background: #F6F6F6;
+ 
+  }
+  body{
+  	background-color: #1027ad;
+  	text-align: center;
+  	align-content: center;
   }
   
   #root {
     max-width: 1200px;
     margin: 0 auto;
+  }
+
+  #elem{
+  	font-size: 24;
+  	font-family: sans-serif;
   }
   
   h1 {
